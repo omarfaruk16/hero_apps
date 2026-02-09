@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1556155092-8707de31f9c4?w=800",
+    "title": "TaskFlow",
+    "companyName": "HERO.IO",
+    "description": "A powerful productivity app to manage daily tasks efficiently.",
+    "size": 45,
+    "reviews": 12034,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6304 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+    "title": "FitTrack",
+    "companyName": "Move Labs",
+    "description": "Track workouts, calories, and health goals in one app.",
+    "size": 62,
+    "reviews": 9845,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4545 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=800",
+    "title": "StudyMate", 
+    "companyName": "EduSpark",
+    "description": "Smart learning companion for students and teachers.",
+    "size": 38,
+    "reviews": 7456,
+    "ratingAvg": 4.7,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4366 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "title": "NotePro",
+    "companyName": "WriteSoft",
+    "description": "Minimal note-taking app with cloud sync.",
+    "size": 25,
+    "reviews": 6532,
+    "ratingAvg": 4.5,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3442 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?w=800",
+    "title": "FinanceGo",
+    "companyName": "MoneyTech",
+    "description": "Track expenses and manage budgets effortlessly.",
+    "size": 55,
+    "reviews": 8890,
+    "ratingAvg": 4.3,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 3870 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "title": "Travelio",
+    "companyName": "Wander Inc",
+    "description": "Plan trips, book stays, and explore destinations.",
+    "size": 72,
+    "reviews": 10210,
+    "ratingAvg": 4.6,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 4980 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "title": "CodeHub",
+    "companyName": "DevWorks",
+    "description": "Learn coding with interactive challenges and projects.",
+    "size": 68,
+    "reviews": 13450,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 9210 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "title": "MusicWave",
+    "companyName": "SoundLab",
+    "description": "Stream music and create playlists you love.",
+    "size": 80,
+    "reviews": 15890,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 8260 }
+    ]
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1556155092-8707de31f9c4?w=800",
+    "title": "TaskFlow",
+    "companyName": "HERO.IO",
+    "description": "TaskFlow is a productivity-focused application designed to help individuals and teams manage daily tasks with clarity and efficiency. The app allows users to create, prioritize, and organize tasks in a structured way, reducing mental overload and improving focus. With intuitive task grouping and deadline tracking, TaskFlow ensures that important responsibilities are never missed. Smart reminders help users stay consistent, while the clean interface minimizes distractions. TaskFlow is optimized for speed and performance, making it suitable for handling large task lists without lag. Whether used for personal planning, academic schedules, or professional project management, TaskFlow adapts to different workflows and encourages better time management habits. Its reliability and ease of use make it a trusted solution for users who want to stay productive every day.",
+    "size": 45,
+    "reviews": 12034,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6304 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+    "title": "FitTrack",
+    "companyName": "Move Labs",
+    "description": "FitTrack is a comprehensive fitness and health tracking application built to support users in maintaining an active and balanced lifestyle. The app enables users to log workouts, track calories, and monitor daily physical activity with accuracy. FitTrack provides clear insights into fitness progress, helping users stay motivated and informed about their health goals. With customizable routines and reminders, the app fits seamlessly into daily schedules. Its clean design makes fitness tracking accessible for beginners while offering meaningful data for experienced users. FitTrack emphasizes consistency and long-term wellness, making it a reliable companion for anyone committed to improving physical health and performance.",
+    "size": 62,
+    "reviews": 9845,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4545 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=800",
+    "title": "StudyMate",
+    "companyName": "EduSpark",
+    "description": "StudyMate is an academic productivity app created to help students organize study plans, manage subjects, and track academic progress. The app supports structured learning by allowing users to schedule study sessions, set reminders, and break down complex topics into manageable tasks. StudyMate promotes consistency and discipline, helping students maintain focus over long-term learning goals. Its simple interface ensures ease of use, while its planning features support exam preparation and daily study routines. Designed for students of all levels, StudyMate helps improve learning efficiency and build better study habits.",
+    "size": 38,
+    "reviews": 7456,
+    "ratingAvg": 4.7,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4366 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
+    "title": "NotePro",
+    "companyName": "WriteSoft",
+    "description": "NotePro is a lightweight note-taking application designed for speed, simplicity, and organization. The app allows users to quickly capture ideas, meeting notes, and personal thoughts without distractions. With cloud synchronization, notes remain accessible across multiple devices, ensuring continuity and reliability. NotePro focuses on minimalism, enabling users to concentrate on content rather than features. Its efficient design makes it suitable for professionals, students, and creatives who need a dependable digital notebook for everyday use.",
+    "size": 25,
+    "reviews": 6532,
+    "ratingAvg": 4.5,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3442 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?w=800",
+    "title": "FinanceGo",
+    "companyName": "MoneyTech",
+    "description": "FinanceGo is a personal finance management application that helps users track expenses, manage budgets, and understand spending habits. The app categorizes transactions and presents financial data in a clear and accessible format. FinanceGo is designed for users who want greater control over their finances without complexity. With reliable performance and secure data handling, the app supports daily expense tracking as well as long-term financial planning. FinanceGo empowers users to make informed financial decisions and build healthier money habits.",
+    "size": 55,
+    "reviews": 8890,
+    "ratingAvg": 4.3,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 3870 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800",
+    "title": "Travelio",
+    "companyName": "Wander Inc",
+    "description": "Travelio is a travel planning application designed to simplify trip organization and destination discovery. The app allows users to manage itineraries, store travel details, and plan journeys efficiently. Travelio supports both casual travelers and frequent explorers by keeping all important travel information in one place. Its intuitive design and reliable performance make trip planning stress-free and enjoyable. Travelio is ideal for users who want better organization and smoother travel experiences.",
+    "size": 72,
+    "reviews": 10210,
+    "ratingAvg": 4.6,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 4980 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "title": "CodeHub",
+    "companyName": "DevWorks",
+    "description": "CodeHub is a learning platform designed for developers and programming enthusiasts. The app offers structured lessons, interactive challenges, and hands-on projects that help users build real-world coding skills. CodeHub supports learners at different experience levels, making it suitable for beginners and advanced developers alike. With its clear learning paths and engaging content, CodeHub promotes continuous learning and practical skill development in modern programming technologies.",
+    "size": 68,
+    "reviews": 13450,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 9210 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "title": "MusicWave",
+    "companyName": "SoundLab",
+    "description": "MusicWave is a music streaming application that allows users to enjoy their favorite tracks and discover new music with ease. The app provides a smooth listening experience with high-quality audio and intuitive navigation. MusicWave focuses on user convenience, offering playlist management and personalized recommendations. Its performance-optimized design ensures uninterrupted playback, making it ideal for daily entertainment and relaxation.",
+    "size": 80,
+    "reviews": 15890,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 8260 }
+    ]
+  },
+
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800",
+    "title": "FoodieGo",
+    "companyName": "TasteTech",
+    "description": "FoodieGo is a food discovery and delivery application that connects users with nearby restaurants and cuisines. The app allows users to explore menus, place orders, and enjoy convenient food delivery. FoodieGo focuses on ease of use, offering smooth navigation and reliable performance. It is designed for users who value quick access to quality food options and a hassle-free ordering experience.",
+    "size": 64,
+    "reviews": 9400,
+    "ratingAvg": 4.4,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4690 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=800",
+    "title": "WeatherNow",
+    "companyName": "SkySoft",
+    "description": "WeatherNow is a real-time weather forecasting application that provides accurate updates and alerts. The app helps users plan daily activities by delivering clear weather information. With its clean interface and fast updates, WeatherNow ensures users stay informed about changing conditions. It is suitable for everyday use and travel planning.",
+    "size": 28,
+    "reviews": 7800,
+    "ratingAvg": 4.5,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800",
+    "title": "ChatLine",
+    "companyName": "Connectify",
+    "description": "ChatLine is a secure messaging application designed for fast and reliable communication. The app supports private conversations with a focus on simplicity and data security. ChatLine provides smooth performance and a clean interface, making everyday communication effortless. It is ideal for users who value privacy and stability in messaging.",
+    "size": 52,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 820 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 5850 }
+    ]
+  },
+
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=800",
+    "title": "ShopEasy",
+    "companyName": "BuyMore",
+    "description": "ShopEasy is an online shopping application designed to provide a smooth and convenient purchasing experience. Users can browse products, place orders, and track deliveries within a single platform. ShopEasy focuses on simplicity, speed, and reliability, making online shopping accessible for everyone.",
+    "size": 74,
+    "reviews": 16800,
+    "ratingAvg": 4.5,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?w=800",
+    "title": "PhotoPlus",
+    "companyName": "LensLab",
+    "description": "PhotoPlus is a photo editing application designed for users who want powerful editing tools in a simple interface. The app allows users to enhance images, apply filters, and adjust visual settings with ease. PhotoPlus is suitable for both casual users and photography enthusiasts.",
+    "size": 90,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8330 }
+    ]
+  },
+
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800",
+    "title": "MindRelax",
+    "companyName": "CalmTech",
+    "description": "MindRelax is a meditation and mental wellness application focused on reducing stress and improving mindfulness. The app offers guided relaxation sessions and calming exercises designed to fit into daily routines. MindRelax promotes mental clarity and emotional balance through consistent use.",
+    "size": 48,
+    "reviews": 9900,
+    "ratingAvg": 4.8,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 5820 }
+    ]
+  },
+
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800",
+    "title": "MeetNow",
+    "companyName": "TeamSync",
+    "description": "MeetNow is a video communication and collaboration application built for remote teams and professionals. The app supports virtual meetings with stable performance and easy access. MeetNow simplifies online collaboration by offering a clear interface and reliable connectivity.",
+    "size": 66,
+    "reviews": 14500,
+    "ratingAvg": 4.4,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 6950 }
+    ]
+  },
+
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "title": "LearnFast",
+    "companyName": "SkillUp",
+    "description": "LearnFast is an educational application offering short and focused courses for skill development. The app helps users learn efficiently through structured lessons and practical examples. LearnFast is designed for individuals who want to improve skills quickly without long commitments.",
+    "size": 58,
+    "reviews": 8700,
+    "ratingAvg": 4.6,
+    "downloads": 920000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800",
+    "title": "ScanDoc",
+    "companyName": "Paperless",
+    "description": "ScanDoc is a document scanning and management application designed to digitize paperwork efficiently. The app allows users to scan, organize, and store documents securely. ScanDoc simplifies document handling for professionals and students alike.",
+    "size": 34,
+    "reviews": 6200,
+    "ratingAvg": 4.5,
+    "downloads": 560000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+    "title": "CryptoWatch",
+    "companyName": "BlockView",
+    "description": "CryptoWatch is a cryptocurrency tracking application that provides real-time market data. The app helps users monitor price movements and trends with clarity. CryptoWatch is designed for users who want quick insights into digital assets.",
+    "size": 41,
+    "reviews": 11300,
+    "ratingAvg": 4.4,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 4960 }
+    ]
+  },
+
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=800",
+    "title": "DriveSafe",
+    "companyName": "AutoTech",
+    "description": "DriveSafe is a navigation and driving assistance application focused on safety and convenience. The app provides route guidance and driving insights to support safer travel. DriveSafe is suitable for daily commuters and long-distance drivers.",
+    "size": 70,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5580 }
+    ]
+  },
+
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?w=800",
+    "title": "GameZone",
+    "companyName": "PlayWare",
+    "description": "GameZone is a mobile gaming hub offering access to a wide variety of casual and competitive games. The app focuses on smooth gameplay, fast performance, and user engagement. GameZone is designed for gamers who enjoy entertainment and competition in one platform.",
+    "size": 95,
+    "reviews": 20400,
+    "ratingAvg": 4.7,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 10100 }
+    ]
+  }
+]
