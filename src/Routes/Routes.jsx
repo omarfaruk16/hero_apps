@@ -4,6 +4,7 @@ import Error from "../Pages/Error/Error.jsx";
 import Home from "../Pages/Home/Home.jsx";
 import Apps from "../Pages/Apps/Apps.jsx";
 import AppDetails from "../Components/AppDetails/AppDetails.jsx";
+import InatallApp from "../Pages/InstalledApp/InatallApp.jsx"
 
 export const router = createBrowserRouter([
   {
@@ -30,6 +31,11 @@ export const router = createBrowserRouter([
           const app = apps.find((a) => String(a.id) === String(params.id));
           return app;
         },
+      },
+      {
+        path: "/installed",
+        Component: InatallApp, 
+        loader: () => fetch('apps.json'),
       }
     ],
   },

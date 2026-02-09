@@ -6,7 +6,7 @@ const fetchAppsPromise = fetch("trending.json").then((res) => res.json());
 
 const Trending = () => {
   return (
-    <div className="md:p-20 p-2 bg-[#D9D9D9]">
+    <div className="md:p-20 p-2 bg-[#ffffff]">
       <h3 className="text-[48px] font-bold text-center mb-4">Trending Apps</h3>
       <p className="text-center text-[#627382] text-[20px]">
         Explore All Trending Apps on the Market developed by us

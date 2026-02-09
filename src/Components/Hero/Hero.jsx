@@ -20,7 +20,7 @@ const Hero = () => {
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
           <a
-            href="#"
+            href="https://play.google.com/store/games?device=windows"
             className="inline-flex items-center gap-3 rounded-md border border-[#D2D2D2] px-5 py-3 text-sm font-semibold text-slate-800 shadow-sm transition hover:shadow"
           >
             <FaGooglePlay className="text-lg" />
@@ -28,7 +28,7 @@ const Hero = () => {
           </a>
 
           <a
-            href="#"
+            href="https://www.apple.com/app-store/"
             className="inline-flex items-center gap-3 rounded-md border border-[#D2D2D2] px-5 py-3 text-sm font-semibold text-slate-800 shadow-sm transition hover:shadow"
           >
             <FaApple className="text-lg" />
