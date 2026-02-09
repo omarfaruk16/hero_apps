@@ -7,13 +7,14 @@ const parseSizeToMB = (size) => {
   const s = String(size).trim().toUpperCase();
   const num = parseFloat(s.replace(/[^\d.]/g, "")) || 0;
   if (s.includes("GB")) return num * 1024;
-  return num; 
+  return num;
 };
 
 const InstalledApps = () => {
-  const allApps = useLoaderData(); 
+  const allApps = useLoaderData();
   const [refresh, setRefresh] = useState(0);
   const [sortBySize, setSortBySize] = useState(false);
+  const [downloadSort, setDownloadSort] = useState("");
 
   const storedIds = useMemo(() => getStoreApp(), [refresh]);
 
@@ -30,8 +31,20 @@ const InstalledApps = () => {
       );
     }
 
+    if (downloadSort === "low-high") {
+      list = [...list].sort(
+        (a, b) => (b.downloads || 0) - (a.downloads || 0)
+      );
+    }
+
+    if (downloadSort === "high-low") {
+      list = [...list].sort(
+        (a, b) => (a.downloads || 0) - (b.downloads || 0)
+      );
+    }
+
     return list;
-  }, [allApps, storedIds, sortBySize]);
+  }, [allApps, storedIds, sortBySize, downloadSort]);
 
   const handleUninstall = (id) => {
     removeFromDB(id);
@@ -40,15 +53,22 @@ const InstalledApps = () => {
 
   return (
     <div className="p-2 md:p-8">
-      <div className="flex items-center justify-between mb-3">
-        <h2 className="font-semibold text-lg">{installedApps.length} Apps Found</h2>
+      <div className="flex flex-wrap items-center justify-between gap-3 mb-3">
+        <h2 className="font-semibold text-lg">
+          {installedApps.length} Apps Found
+        </h2>
 
-        <button
-          onClick={() => setSortBySize((v) => !v)}
-          className="btn btn-sm bg-base-200 border border-base-300"
-        >
-          Sort by Size {sortBySize ? "↓" : ""}
-        </button>
+        <div className="flex items-center gap-2">
+            <p>Sorted: </p>
+          <select
+            value={downloadSort}
+            onChange={(e) => setDownloadSort(e.target.value)}
+            className="select select-sm bg-base-200 border border-base-300"
+          >
+            <option value="high-low">High-Low</option>
+            <option value="low-high">Low-High</option>
+          </select>
+        </div>
       </div>
 
       <div className="space-y-3">
@@ -76,8 +96,12 @@ const InstalledApps = () => {
                 </h3>
 
                 <div className="flex flex-wrap items-center gap-3 text-sm text-gray-500 mt-1">
-                  <span className="text-green-600 font-medium">↓ {app.downloads || "—"}</span>
-                  <span className="text-orange-500 font-medium">★ {app.ratingAvg ?? app.ratings ?? "—"}</span>
+                  <span className="text-green-600 font-medium">
+                    ↓ {app.downloads || "—"}
+                  </span>
+                  <span className="text-orange-500 font-medium">
+                    ★ {app.ratingAvg ?? app.ratings ?? "—"}
+                  </span>
                   <span>{app.size ?? "—"} MB</span>
                 </div>
               </div>

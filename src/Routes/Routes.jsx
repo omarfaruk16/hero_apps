@@ -20,7 +20,7 @@ export const router = createBrowserRouter([
       {
         path: "/apps",
         Component: Apps,
-        loader: () => fetch('apps.json'),
+        loader: () => fetch('/apps.json'),
       },
       {
         path:"apps/:id",
@@ -35,7 +35,7 @@ export const router = createBrowserRouter([
       {
         path: "/installed",
         Component: InatallApp, 
-        loader: () => fetch('apps.json'),
+        loader: () => fetch('/apps.json'),
       }
     ],
   },
